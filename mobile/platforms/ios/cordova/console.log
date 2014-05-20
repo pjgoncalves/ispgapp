@@ -1,0 +1,101 @@
+2014-05-14 16:42:16.789 HelloWorld[9923:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-14 16:42:19.882 HelloWorld[9923:70b] Resetting plugins due to page load.
+2014-05-14 16:42:20.251 HelloWorld[9923:70b] Finished load of: file:///Users/pedrogoncalves/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/882F0CF9-6759-4607-B97F-B2AB40C12C96/HelloWorld.app/www/index.html
+2014-05-14 16:43:15.226 HelloWorld[10278:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-14 16:43:15.438 HelloWorld[10278:70b] Resetting plugins due to page load.
+2014-05-14 16:43:15.485 HelloWorld[10278:70b] Finished load of: file:///Users/pedrogoncalves/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/882F0CF9-6759-4607-B97F-B2AB40C12C96/HelloWorld.app/www/index.html
+2014-05-14 16:43:51.929 HelloWorld[10601:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-14 16:43:51.996 HelloWorld[10601:70b] Resetting plugins due to page load.
+2014-05-14 16:43:52.029 HelloWorld[10601:70b] Finished load of: file:///Users/pedrogoncalves/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/882F0CF9-6759-4607-B97F-B2AB40C12C96/HelloWorld.app/www/index.html
+2014-05-14 16:47:50.926 HelloWorld[10954:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-14 16:47:51.303 HelloWorld[10954:70b] Resetting plugins due to page load.
+2014-05-14 16:47:51.500 HelloWorld[10954:70b] Finished load of: file:///Users/pedrogoncalves/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/882F0CF9-6759-4607-B97F-B2AB40C12C96/HelloWorld.app/www/index.html
+2014-05-14 16:49:38.261 HelloWorld[11281:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-14 16:49:38.709 HelloWorld[11281:70b] Resetting plugins due to page load.
+2014-05-14 16:49:38.736 HelloWorld[11281:70b] Finished load of: file:///Users/pedrogoncalves/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/882F0CF9-6759-4607-B97F-B2AB40C12C96/HelloWorld.app/www/index.html
+2014-05-14 16:54:08.943 HelloWorld[11616:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-14 16:54:09.129 HelloWorld[11616:70b] Resetting plugins due to page load.
+2014-05-14 16:54:10.335 HelloWorld[11616:70b] Finished load of: file:///Users/pedrogoncalves/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/882F0CF9-6759-4607-B97F-B2AB40C12C96/HelloWorld.app/www/index.html
+2014-05-14 16:58:21.871 HelloWorld[11929:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-14 16:58:22.241 HelloWorld[11929:70b] Resetting plugins due to page load.
+2014-05-14 16:58:22.303 HelloWorld[11929:4003] ERROR whitelist rejection: url='https://ajax.googleapis.com/ajax/libs/angularjs/1.2.15/angular.min.js'
+2014-05-14 16:58:22.305 HelloWorld[11929:4003] ERROR whitelist rejection: url='https://ajax.googleapis.com/ajax/libs/angularjs/1.2.15/angular.min.js'
+2014-05-14 16:58:22.317 HelloWorld[11929:4003] ERROR whitelist rejection: url='https://ajax.googleapis.com/ajax/libs/angularjs/1.2.15/angular.min.js'
+2014-05-14 16:58:22.482 HelloWorld[11929:70b] Finished load of: file:///Users/pedrogoncalves/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/882F0CF9-6759-4607-B97F-B2AB40C12C96/HelloWorld.app/www/index.html
+2014-05-14 16:59:57.476 HelloWorld[12220:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-14 16:59:58.203 HelloWorld[12220:70b] Resetting plugins due to page load.
+2014-05-14 16:59:58.283 HelloWorld[12220:4003] ERROR whitelist rejection: url='https://ajax.googleapis.com/ajax/libs/angularjs/1.2.15/angular.min.js'
+2014-05-14 16:59:58.284 HelloWorld[12220:4003] ERROR whitelist rejection: url='https://ajax.googleapis.com/ajax/libs/angularjs/1.2.15/angular.min.js'
+2014-05-14 16:59:58.285 HelloWorld[12220:4003] ERROR whitelist rejection: url='https://ajax.googleapis.com/ajax/libs/angularjs/1.2.15/angular.min.js'
+2014-05-14 16:59:58.309 HelloWorld[12220:70b] Finished load of: file:///Users/pedrogoncalves/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/882F0CF9-6759-4607-B97F-B2AB40C12C96/HelloWorld.app/www/index.html
+2014-05-14 17:02:35.749 HelloWorld[12539:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-14 17:02:36.878 HelloWorld[12539:70b] Resetting plugins due to page load.
+2014-05-14 17:02:37.349 HelloWorld[12539:4103] ERROR whitelist rejection: url='https://ajax.googleapis.com/ajax/libs/angularjs/1.2.15/angular.min.js'
+2014-05-14 17:02:37.350 HelloWorld[12539:4103] ERROR whitelist rejection: url='https://ajax.googleapis.com/ajax/libs/angularjs/1.2.15/angular.min.js'
+2014-05-14 17:02:37.350 HelloWorld[12539:4103] ERROR whitelist rejection: url='https://ajax.googleapis.com/ajax/libs/angularjs/1.2.15/angular.min.js'
+2014-05-14 17:02:37.443 HelloWorld[12539:70b] Finished load of: file:///Users/pedrogoncalves/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/882F0CF9-6759-4607-B97F-B2AB40C12C96/HelloWorld.app/www/index.html
+2014-05-14 17:04:18.620 HelloWorld[12871:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-14 17:04:19.162 HelloWorld[12871:70b] Resetting plugins due to page load.
+2014-05-14 17:04:19.372 HelloWorld[12871:4203] ERROR whitelist rejection: url='https://ajax.googleapis.com/ajax/libs/angularjs/1.2.15/angular.min.js'
+2014-05-14 17:04:19.373 HelloWorld[12871:4203] ERROR whitelist rejection: url='https://ajax.googleapis.com/ajax/libs/angularjs/1.2.15/angular.min.js'
+2014-05-14 17:04:19.373 HelloWorld[12871:4203] ERROR whitelist rejection: url='https://ajax.googleapis.com/ajax/libs/angularjs/1.2.15/angular.min.js'
+2014-05-14 17:04:19.516 HelloWorld[12871:70b] Finished load of: file:///Users/pedrogoncalves/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/882F0CF9-6759-4607-B97F-B2AB40C12C96/HelloWorld.app/www/index.html
+2014-05-14 17:06:37.082 HelloWorld[13166:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-14 17:06:37.497 HelloWorld[13166:70b] Resetting plugins due to page load.
+2014-05-14 17:06:37.806 HelloWorld[13166:4003] ERROR whitelist rejection: url='https://ajax.googleapis.com/ajax/libs/angularjs/1.2.15/angular.min.js'
+2014-05-14 17:06:37.807 HelloWorld[13166:4003] ERROR whitelist rejection: url='https://ajax.googleapis.com/ajax/libs/angularjs/1.2.15/angular.min.js'
+2014-05-14 17:06:37.808 HelloWorld[13166:4003] ERROR whitelist rejection: url='https://ajax.googleapis.com/ajax/libs/angularjs/1.2.15/angular.min.js'
+2014-05-14 17:06:37.827 HelloWorld[13166:70b] Finished load of: file:///Users/pedrogoncalves/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/882F0CF9-6759-4607-B97F-B2AB40C12C96/HelloWorld.app/www/index.html
+2014-05-14 17:10:59.283 HelloWorld[13487:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-14 17:10:59.486 HelloWorld[13487:70b] Resetting plugins due to page load.
+2014-05-14 17:10:59.516 HelloWorld[13487:4103] ERROR whitelist rejection: url='https://ajax.googleapis.com/ajax/libs/angularjs/1.2.15/angular.min.js'
+2014-05-14 17:10:59.517 HelloWorld[13487:4103] ERROR whitelist rejection: url='https://ajax.googleapis.com/ajax/libs/angularjs/1.2.15/angular.min.js'
+2014-05-14 17:10:59.518 HelloWorld[13487:4103] ERROR whitelist rejection: url='https://ajax.googleapis.com/ajax/libs/angularjs/1.2.15/angular.min.js'
+2014-05-14 17:10:59.547 HelloWorld[13487:70b] Finished load of: file:///Users/pedrogoncalves/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/882F0CF9-6759-4607-B97F-B2AB40C12C96/HelloWorld.app/www/index.html
+2014-05-14 17:12:03.062 HelloWorld[13809:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-14 17:12:03.312 HelloWorld[13809:70b] Resetting plugins due to page load.
+2014-05-14 17:12:03.430 HelloWorld[13809:4003] ERROR whitelist rejection: url='https://ajax.googleapis.com/ajax/libs/angularjs/1.2.15/angular.min.js'
+2014-05-14 17:12:03.433 HelloWorld[13809:4003] ERROR whitelist rejection: url='https://ajax.googleapis.com/ajax/libs/angularjs/1.2.15/angular.min.js'
+2014-05-14 17:12:03.434 HelloWorld[13809:4003] ERROR whitelist rejection: url='https://ajax.googleapis.com/ajax/libs/angularjs/1.2.15/angular.min.js'
+2014-05-14 17:12:03.467 HelloWorld[13809:70b] Finished load of: file:///Users/pedrogoncalves/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/882F0CF9-6759-4607-B97F-B2AB40C12C96/HelloWorld.app/www/index.html
+2014-05-14 17:19:10.006 HelloWorld[14163:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-14 17:19:10.017 HelloWorld[14163:70b] Unlimited access to network resources
+2014-05-14 17:19:10.173 HelloWorld[14163:70b] Resetting plugins due to page load.
+2014-05-14 17:19:13.142 HelloWorld[14163:70b] Finished load of: file:///Users/pedrogoncalves/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/882F0CF9-6759-4607-B97F-B2AB40C12C96/HelloWorld.app/www/index.html
+2014-05-14 17:53:40.137 HelloWorld[14768:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-14 17:53:40.223 HelloWorld[14768:70b] Unlimited access to network resources
+2014-05-14 17:53:42.126 HelloWorld[14768:70b] Resetting plugins due to page load.
+2014-05-14 17:53:45.248 HelloWorld[14768:70b] Finished load of: file:///Users/pedrogoncalves/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/882F0CF9-6759-4607-B97F-B2AB40C12C96/HelloWorld.app/www/index.html
+2014-05-14 17:58:35.440 HelloWorld[15145:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-14 17:58:35.460 HelloWorld[15145:70b] Unlimited access to network resources
+2014-05-14 17:58:36.527 HelloWorld[15145:70b] Resetting plugins due to page load.
+2014-05-14 17:58:39.486 HelloWorld[15145:70b] Finished load of: file:///Users/pedrogoncalves/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/882F0CF9-6759-4607-B97F-B2AB40C12C96/HelloWorld.app/www/index.html
+2014-05-14 22:23:42.020 HelloWorld[16619:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-14 22:23:42.607 HelloWorld[16619:70b] Unlimited access to network resources
+2014-05-14 22:23:47.623 HelloWorld[16626:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-14 22:23:47.655 HelloWorld[16626:70b] Unlimited access to network resources
+2014-05-14 22:23:47.859 HelloWorld[16626:70b] Resetting plugins due to page load.
+2014-05-14 22:23:51.303 HelloWorld[16626:70b] Finished load of: file:///Users/pedrogoncalves/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/882F0CF9-6759-4607-B97F-B2AB40C12C96/HelloWorld.app/www/index.html
+2014-05-19 17:05:50.163 HelloWorld[4177:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-19 17:05:50.698 HelloWorld[4177:70b] Unlimited access to network resources
+2014-05-19 17:05:54.854 HelloWorld[4183:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-19 17:05:54.862 HelloWorld[4183:70b] Unlimited access to network resources
+2014-05-19 17:05:54.942 HelloWorld[4183:70b] Resetting plugins due to page load.
+2014-05-19 17:05:55.904 HelloWorld[4183:70b] Finished load of: file:///Users/pedrogoncalves/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/882F0CF9-6759-4607-B97F-B2AB40C12C96/HelloWorld.app/www/index.html
+2014-05-19 17:15:52.829 HelloWorld[4613:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-19 17:15:53.167 HelloWorld[4613:70b] Unlimited access to network resources
+2014-05-19 17:15:58.569 HelloWorld[4613:70b] Resetting plugins due to page load.
+2014-05-19 17:16:00.320 HelloWorld[4613:70b] Finished load of: file:///Users/pedrogoncalves/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/882F0CF9-6759-4607-B97F-B2AB40C12C96/HelloWorld.app/www/index.html
+2014-05-19 17:19:20.934 HelloWorld[5013:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-19 17:19:20.971 HelloWorld[5013:70b] Unlimited access to network resources
+2014-05-19 17:19:21.138 HelloWorld[5013:70b] Resetting plugins due to page load.
+2014-05-19 17:19:22.036 HelloWorld[5013:70b] Finished load of: file:///Users/pedrogoncalves/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/882F0CF9-6759-4607-B97F-B2AB40C12C96/HelloWorld.app/www/index.html
+2014-05-19 17:34:46.034 HelloWorld[5451:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-19 17:34:46.063 HelloWorld[5451:70b] Unlimited access to network resources
+2014-05-19 17:34:46.235 HelloWorld[5451:70b] Resetting plugins due to page load.
+2014-05-19 17:34:48.557 HelloWorld[5451:70b] Finished load of: file:///Users/pedrogoncalves/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/882F0CF9-6759-4607-B97F-B2AB40C12C96/HelloWorld.app/www/index.html
+2014-05-19 17:46:54.307 HelloWorld[5878:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-19 17:46:54.318 HelloWorld[5878:70b] Unlimited access to network resources
+2014-05-19 17:46:54.513 HelloWorld[5878:70b] Resetting plugins due to page load.
+2014-05-19 17:46:55.504 HelloWorld[5878:70b] Finished load of: file:///Users/pedrogoncalves/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/882F0CF9-6759-4607-B97F-B2AB40C12C96/HelloWorld.app/www/index.html
+Terminating in response to SpringBoard's termination.

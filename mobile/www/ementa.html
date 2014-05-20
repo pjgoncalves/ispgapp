@@ -1,0 +1,37 @@
+<!doctype html>
+<html ng-app>
+    <head>
+        <meta charset="utf-8">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>ementas</title>
+        
+        <link rel="stylesheet" type="text/css" href="http://meyerweb.com/eric/tools/css/reset/reset.css"/>
+        <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css"/>
+        <link rel="stylesheet" type="text/css" href="css/bootstrap-theme.min.css"/>
+        <link rel="stylesheet" type="text/css" href="css/custom.css"/>
+
+        <link rel="author" href="">
+    </head>
+    <body>
+
+    	<div class="container" id="container">
+          <div class="row">
+
+          	<div ng-controller="FoodController" class="col-md-6 col-md-offset-3">
+              <ul>
+                <li ng-repeat="dish in menus" class="text-center">
+                  {{ dish.dish_name }} - {{ dish.dish_price }} €<br>
+                  {{ dish.dish_description}}
+                </li>
+              </ul>
+            </div>
+
+          </div>
+        </div>
+
+        <script type="text/javascript" src="js/ementas.js" charset="utf-8"></script>
+        
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.15/angular.min.js"></script>
+    </body>
+</html>
